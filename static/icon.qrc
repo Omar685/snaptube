@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/feather/arrow-down.svg</file>
+    <file>icons/home.svg</file>
+    <file>icons/more-vertical.svg</file>
+    <file>icons/settings.svg</file>
+    <file>icons/youtube.svg</file>
+  </qresource>
+</RCC>
